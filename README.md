@@ -5,12 +5,15 @@ This DNN implemented using Stochastic gradient descent. This algorithm works for
 
 # Dataset 
 
-https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy
 
-[Train Images](https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy)
-[Train Labels](https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy)
-[Test Images](https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy)
-[Test Labels](https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy)
+  [Train Images](https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy)
+  
+  [Train Labels](https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy)
+  
+  [Test Images](https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy)
+  
+  [Test Labels](https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy)
+  
 
 Run the following command .
 
