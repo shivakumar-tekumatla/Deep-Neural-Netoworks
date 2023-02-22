@@ -16,6 +16,7 @@ Run the following command .
   Hidden layers= 7,
   Hidden units at each hidden layer = [512, 512, 512, 512, 512, 512, 512]
 ```
+# Test Accuracy  - 90.02
 
 # Weight Plots at different layers 
 <img src="https://github.com/shivakumar-tekumatla/Deep-Neural-Networks/blob/main/Best%20Performing/Screenshot%202023-02-18%20at%2011.05.57%20PM.png" width="1000">
