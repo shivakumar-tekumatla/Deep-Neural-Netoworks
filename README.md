@@ -16,9 +16,9 @@ Run the following command .
   Hidden layers= 7,
   Hidden units at each hidden layer = [512, 512, 512, 512, 512, 512, 512]
 ```
-# Test Accuracy  - 90.02%
-# Training Error is  0.04018205912911439
-# Test Error is  0.8894396867771397
+# Test Accuracy  - ```90.02%```
+### Training Error is  ```0.04018205912911439```
+### Test Error is  ```0.8894396867771397```
 
 
 # Weight Plots at different layers 
