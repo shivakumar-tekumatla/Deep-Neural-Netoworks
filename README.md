@@ -14,6 +14,8 @@ This DNN implemented using Stochastic gradient descent. This algorithm works for
   
   [Test Labels](https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy)
   
+Example data:
+
 
 Run the following command .
 
