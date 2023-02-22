@@ -16,7 +16,7 @@ This DNN implemented using Stochastic gradient descent. This algorithm works for
   
 Example data:
 
-  <img src = "https://github.com/shivakumar-tekumatla/Deep-Neural-Networks/blob/main/Best%20Performing/out.jpeg">
+  <img src = "https://github.com/shivakumar-tekumatla/Deep-Neural-Networks/blob/main/Best%20Performing/out.jpeg width="300">
 
 Run the following command .
 
