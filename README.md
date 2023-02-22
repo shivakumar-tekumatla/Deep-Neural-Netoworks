@@ -1,7 +1,7 @@
 # Deep-Neural-Networks
 Multi-layer neural network to classify images of fashion items (10 different classes) from the Fashion MNIST dataset from scratch
 
-This DNN implemented using Stochastic gradient descent. This algorithm works for any number of hidden layers (Even with zero!). Just edit the hyper parameters as you wish from the main function. If you want to tune the hyper parameters, add each parameter to the corresponding list in the main function, and change the key word argument of dnn class to ```True```. If the tune parameter is set to ```False```, the network chooses a random hyperparameter set.
+This DNN implemented using Stochastic gradient descent. This algorithm works for any number of hidden layers (Even with zero!). ReLU activation is assumed for all the hidden layers, and soft-max activaton for the output layer. Just edit the hyper parameters as you wish from the main function. If you want to tune the hyper parameters, add each parameter to the corresponding list in the main function, and change the key word argument of dnn class to ```True```. If the tune parameter is set to ```False```, the network chooses a random hyperparameter set.
 
 Run the following command .
 
