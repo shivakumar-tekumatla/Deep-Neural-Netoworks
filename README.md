@@ -17,6 +17,9 @@ Run the following command .
   Hidden units at each hidden layer = [512, 512, 512, 512, 512, 512, 512]
 ```
 # Test Accuracy  - 90.02%
+# Training Error is  0.04018205912911439
+# Test Error is  0.8894396867771397
+
 
 # Weight Plots at different layers 
 <img src="https://github.com/shivakumar-tekumatla/Deep-Neural-Networks/blob/main/Best%20Performing/Screenshot%202023-02-18%20at%2011.05.57%20PM.png" width="1000">
