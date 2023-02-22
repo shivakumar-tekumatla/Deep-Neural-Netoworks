@@ -3,6 +3,15 @@ Multi-layer neural network to classify images of fashion items (10 different cla
 
 This DNN implemented using Stochastic gradient descent. This algorithm works for any number of hidden layers (Even with zero!). ReLU activation is assumed for all the hidden layers, and soft-max activaton for the output layer. Just edit the hyper parameters as you wish from the main function. If you want to tune the hyper parameters, add each parameter to the corresponding list in the main function, and change the key word argument of dnn class to ```True```. If the tune parameter is set to ```False```, the network chooses a random hyperparameter set.
 
+# Dataset 
+
+https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy
+
+[Train Images](https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy)
+[Train Labels](https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy)
+[Test Images](https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy)
+[Test Labels](https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy)
+
 Run the following command .
 
 ``` python3 DNN_MNIST.py```
